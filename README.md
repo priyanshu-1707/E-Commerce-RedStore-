@@ -2,12 +2,9 @@
 ![image](https://github.com/priyanshu-1707/E-Commerce-RedStore-/assets/128516306/c8ff4992-e1f8-4ca8-b695-6fee1c6ab443)
 
 ![image](https://github.com/priyanshu-1707/E-Commerce-RedStore-/assets/128516306/46571b53-8687-443c-9ed8-e6c05e6abe13)
-![image](https://github.com/priyanshu-1707/E-Commerce-RedStore-/assets/128516306/d123d81d-be0a-45d5-8759-64a2c6ff1005)
+![image](https://github.com/priyanshu-1707/E-Commerce-RedStore-/assets/128516306/d123d81d-be0a-45d5-8759-
 
-
-
-
-# Why you need this course?
+#RedStore - e-commerce Webpage
 
 Creating an e-commerce website using HTML, CSS, and JavaScript can be a challenging and rewarding project that allows you to learn and develop a wide range of skills. Some of the things you might learn while creating an e-commerce website include:
 
