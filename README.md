@@ -1,9 +1,3 @@
-![image](https://github.com/priyanshu-1707/E-Commerce-RedStore-/assets/128516306/844491df-bbb7-4d30-92f6-8670ea135f03)
-![image](https://github.com/priyanshu-1707/E-Commerce-RedStore-/assets/128516306/c8ff4992-e1f8-4ca8-b695-6fee1c6ab443)
-
-![image](https://github.com/priyanshu-1707/E-Commerce-RedStore-/assets/128516306/46571b53-8687-443c-9ed8-e6c05e6abe13)
-![image](https://github.com/priyanshu-1707/E-Commerce-RedStore-/assets/128516306/d123d81d-be0a-45d5-8759-
-
 # RedStore - e-commerce Webpage
 
 Creating an e-commerce website using HTML, CSS, and JavaScript can be a challenging and rewarding project that allows you to learn and develop a wide range of skills. Some of the things you might learn while creating an e-commerce website include:
@@ -39,6 +33,13 @@ Part2: Shop Page & Single Product Page.
 Part3: Blog Page.
 
 Part4: Ecommerce Shopping Cart.
+
+# SnapShot
+![image](https://github.com/priyanshu-1707/E-Commerce-RedStore-/assets/128516306/844491df-bbb7-4d30-92f6-8670ea135f03)
+![image](https://github.com/priyanshu-1707/E-Commerce-RedStore-/assets/128516306/c8ff4992-e1f8-4ca8-b695-6fee1c6ab443)
+
+![image](https://github.com/priyanshu-1707/E-Commerce-RedStore-/assets/128516306/46571b53-8687-443c-9ed8-e6c05e6abe13)
+
 
 Here you will find all the images I'm using to create this responsive ecommerce website. In future image folder can update.
 
