@@ -30,9 +30,9 @@ Part1: Responsive Home Page Design.
 
 Part2: Shop Page & Single Product Page.
 
-Part3: Blog Page.
+Part3: Blog Page
 
-Part4: Ecommerce Shopping Cart.
+Part4: Ecommerce Shopping Cart
 
 # SnapShot
 ![image](https://github.com/priyanshu-1707/E-Commerce-RedStore-/assets/128516306/844491df-bbb7-4d30-92f6-8670ea135f03)
